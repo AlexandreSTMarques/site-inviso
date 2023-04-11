@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root {
+    --cor-titulo1: #49f536;
+    --cor-corpo-do-site:#16570f;
+
+
+}
+
+body{
+    background-image: url('imagem/muro-verde.jpg');
+    background-color:  #16570f;
+font-family: italic  5em 'Knewave'cursive;
+color:#10360C ;
+text-align: center;
+ height: 98%vh;
+
+ margin: 10px;
+ background-size: contain;
+ max-width: 1500px;
+ max-height: 1000px;
+ 
+ 
+
+}
+
+
+header{
+   background-image: linear-gradient(to top,#23751A,#10360C,#002207);
+   font-family:'Love Ya Like A Sister', cursive;
+   font-size: 3em;
+    padding-top: 25px;
+    margin:-10px -5px 0px -5px ;
+    border-radius: 10px;
+    box-shadow:10px 10px 10px rgba(0, 0, 0, 0.747) ;
+    
+
+    
+}
+
+
+h1{
+    color: #49f536;
+    padding-bottom: 40px;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.658);
+}
+nav{
+    font-size: 30px;
+    text-align: left;
+
+}
+nav > a{
+    text-decoration: none;
+    text-align: left;
+    color: rgb(70, 3, 70);
+    padding: 10px;
+    
+}
+nav > a:hover{
+    text-decoration: underline;
+    
+}
+p{
+    color: #10360C;
+    font-size: 2em;
+    text-align: justify;
+    
+    
+}
+
+section{
+    background-color:  #79a570;
+    border-radius: 10px;
+    border-color: #336928;
+    border-style: solid;
+    padding: 10px;
+    margin:10px;
+   
+    
+    
+    
+    
+}
+
+main{
+    min-width: 300px;
+    max-width: 1000px;
+    margin:auto;
+}
+
+main > img{
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.671);
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    width: 100%;
+
+}
+div{
+    background-color: #79a570 ;
+    border: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+    
+    
+}
+footer{
+    border: 20px;
+    margin-top: 5px;
+    padding-top:2px ;
+    
+   
+    
+    
+    
+    
+}
+footer > p{
+    background-color: #79a570;
+    text-align:center;
+    font-size: 1.3em;
+    padding: 20px 20px 50px 20px;
+    border-radius: 10px;}
+    
+    
+    
+    
+  
+
+
+   
+  
+    
+    
+    
+    
+
+
