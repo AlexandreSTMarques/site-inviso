@@ -83,9 +83,12 @@ div{
     min-width: 300px;
     max-width: 1000px;
     margin:auto;
-    
+   
 }
-.riachao{
+
+    
+
+.riachao{ /* foto com todos no show do riachão.*/
     border:solid 5px green;
     width: 100%;
     height:auto;
@@ -93,7 +96,7 @@ div{
     
 
 }
-.ramon{
+.ramon{ /* foto eu e ramon na guitarra*/
     border:solid 5px green;
     width: 100%;
     height:auto;
@@ -102,10 +105,24 @@ div{
 }
 video{
    
-    border:solid 5px green;
-    width: 100%;
+    border:solid 2px green;
+    width: 80%;
     height:auto;
     padding-bottom: 0px; 
+    min-width: 150px;
+    max-width: 700px;
+    
 
-}
+    
+    }
+    iframe{
+        border:solid 2px green;
+    width: 80%;
+    height:auto;
+    min-width: 150px;
+    max-width: 700px;
+    }
+    iframe.solidao {
 
+    }
+   
