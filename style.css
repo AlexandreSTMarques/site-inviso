@@ -40,7 +40,7 @@ header{
    font-size: 3em;
     padding-top: 25px;
     padding-bottom: 10px;
-    margin:-10px -5px 0px -5px ;
+    margin:-20px -5px 0px -5px ;
     border-radius: 10px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.747) ;
     
@@ -54,7 +54,10 @@ h1{
     margin-bottom: 10px;
     padding-bottom: 20px;
     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.658);
+    margin-top: -30px;
 }
+
+   
 nav{
     font-size: 30px;
     text-align: left;
@@ -82,10 +85,10 @@ p{
 section{
     background-color:  #79a570;
     border-radius: 10px;
-    border-color: #336928;
+    border-color: #adff9d;
     border-style: solid;
     padding: 10px;
-    margin:10px;
+    margin-top: 40px;
 
    
 
@@ -98,6 +101,7 @@ section{
 section > p{
     font-size: 1.6em;
     width: 100%;
+    
 
 }
 
@@ -105,6 +109,10 @@ main{
     min-width: 300px;
     max-width: 1000px;
     margin:auto;
+}
+main > h1{
+    padding-bottom: -20px;
+    margin-bottom: 40px;
 }
 
 main > img{
