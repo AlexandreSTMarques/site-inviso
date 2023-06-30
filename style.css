@@ -22,12 +22,12 @@ body{
 font-family: italic  5em 'Knewave'cursive;
 color:#10360C ;
 text-align: center;
- height: 100vh;
+ height: 98vh;
 
  margin: 10px;
- background-size: contain;
- width: 1500px;
- height: 1000px;
+ background-size: cover;
+ max-width: 1600px;
+ min-height: 600px;
  
  
 
@@ -43,6 +43,7 @@ header{
     margin:-20px -5px 0px -5px ;
     border-radius: 10px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.517) ;
+    text-align: center;
     
 
     
