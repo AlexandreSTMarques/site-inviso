@@ -24,10 +24,9 @@ color:#10360C ;
 text-align: center;
  height: 98vh;
 
- margin: 10px;
+ margin: 5px;
  background-size: cover;
- max-width: 1600px;
- min-height: 600px;
+ 
  
  
 
@@ -38,9 +37,8 @@ header{
    background-image: linear-gradient(to top,#23751A,#10360C,#002207);
    font-family:'Love Ya Like A Sister', cursive;
    font-size: 3em;
-    padding-top: 25px;
-    padding-bottom: 10px;
-    margin:-20px -5px 0px -5px ;
+    padding-top: 5px;
+     margin:-10px -5px 0px -5px ;
     border-radius: 10px;
     box-shadow:10px 10px 10px rgba(0, 0, 0, 0.517) ;
     text-align: center;
@@ -52,8 +50,8 @@ header{
 
 h1{
     color: #49f536;
-    margin-bottom: 10px;
-    padding-bottom: 20px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
     text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.658);
     margin-top: -30px;
 }
@@ -61,14 +59,13 @@ h1{
    
 nav{
     font-size: 30px;
-    text-align: left;
+    text-align: center;
 
 }
 nav > a{
     text-decoration: none;
-    text-align: left;
-    color: rgba(67, 177, 93, 0.842);
-    padding: 10px;
+    color: rgba(144, 191, 155, 0.842);
+    padding: 9px;
     
 }
 nav > a:hover{
@@ -84,7 +81,7 @@ p{
 }
 
 section{
-    background-color:  #79a570c3;
+    background-color:  #79a57079;
     border-radius: 10px;
     border-color: #adff9d;
     border-style: solid;
@@ -100,8 +97,9 @@ section{
     
 }
 section > p{
-    font-size: 1.4em;
+    font-size: 1.2em;
     width: 100%;
+    color:  #9dfa8b;
     
 
 }
@@ -109,7 +107,7 @@ section > p{
 main{
     min-width: 300px;
     max-width: 1000px;
-    margin:auto;
+
 }
 main > h1{
     padding-bottom: -20px;
@@ -118,10 +116,11 @@ main > h1{
 
 main > img{
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.671);
-    border-style: solid;
-    border-color: black;
-    border-radius: 10px;
-    width: 100%;
+    border:2px solid rgb(109, 177, 6);
+   border-radius: 10px;
+ 
+   
+    
 
 }
 div{
@@ -135,8 +134,9 @@ div{
 }
 footer{
     border: 20px;
-    margin-top: 5px;
+    margin-top: 2px;
     padding-top:2px ;
+    
     
    
     
@@ -146,9 +146,10 @@ footer{
 }
 footer > p{
     background-color: #83a37d5b;
+    color:  #9dfa8b;
     text-align:center;
-    font-size: 1.3em;
-    padding: 20px 20px 50px 20px;
+    font-size: 1.2em;
+    padding: 10px 10px 10px 10px;
     border-radius: 10px;}
     
     
