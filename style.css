@@ -58,18 +58,21 @@ h1{
 
    
 nav{
-    font-size: 30px;
+    font-size: 27px;
     text-align: center;
 
 }
 nav > a{
     text-decoration: none;
     color: rgba(144, 191, 155, 0.842);
-    padding: 9px;
+    padding: px;
     
 }
 nav > a:hover{
-    text-decoration: underline;
+    color: rgba(0, 255, 60, 0.842);
+    background-color: #002207;
+    
+    
     
 }
 p{
