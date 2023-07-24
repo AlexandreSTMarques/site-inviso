@@ -11,6 +11,9 @@
     color:#10360C ;
     text-align: center;
     }
+    nav > a{
+        font-size: 0.9em;
+    }
    
 }
 
