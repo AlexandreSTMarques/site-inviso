@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/*cofig: retrato*/
+
+body{
+    background-image: url('imagem/muro-verde.jpg');
+    background-color:  #16570fb0;
+font-family: italic  5em 'Knewave'cursive;
+color:#10360C ;
+text-align: center;
+}
+nav > a{
+    text-decoration: none;
+    color: rgba(144, 191, 155, 0.842);
+    padding: 20px;
+    font-size: 0.7em;
+    
+}
+nav > a:hover{
+    color: rgba(0, 255, 60, 0.842);
+    background-color: #045d182c;
+    
+    
+    
+}
+p{
+    font-size: 2em;
+}

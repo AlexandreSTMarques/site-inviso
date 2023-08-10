@@ -65,7 +65,8 @@ nav{
 nav > a{
     text-decoration: none;
     color: rgba(144, 191, 155, 0.842);
-    padding: 30px;
+    padding: 10px;
+    font-size: 2.em;
     
 }
 nav > a:hover{
