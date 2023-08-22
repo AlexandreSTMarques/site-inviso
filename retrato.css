@@ -24,5 +24,29 @@ nav > a:hover{
     
 }
 p{
-    font-size: 2em;
+    font-size: 0.8em;
+}
+main{
+    min-width: 150px;
+    max-width: 300px;
+    margin:auto;
+}
+main > img{
+    border:solid 5px green;
+
+    
+   
+   
+ 
+    
+    
+    
+    
+}
+iframe{
+    border:solid 2px green;
+width: 80%;
+height: 100vh;
+min-width: 140px;
+max-width: 700px;
 }
