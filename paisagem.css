@@ -17,6 +17,10 @@ padding: 30px;
 font-size: 3.9em;
 
 }
+
+p{
+    margin-top: 65px;
+}
 iframe{
     border:solid 2px green;
 width: 80%;
